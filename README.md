@@ -2,18 +2,16 @@
 
 - 👀 I’m interested in Artificial Intelligence & Machine Learning
 
-- 🌱 I’m currently learning Web Engineering
-
-- 🤔 I’m looking for help with Resume Parsing using NLP
-
 - 💬 Ask me about:
-  - C++
+  - C/C++
   - Java
   - Python
-  - SQL
+  - SQL/MySQL
   - MATLAB
   - VB .NET
   - Assembly Language
+  - WEB Development
+  - MERN Stack
 
 - 📫 How to reach me:  [<img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg alt='LinkedIn' width="25"/>][LinkedIn]
 
