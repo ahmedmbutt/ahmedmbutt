@@ -1,21 +1,16 @@
 ### Hi there 👋
 
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
+- 👀 I’m interested in Artificial Intelligence
 
 - 💬 Ask me about:
-  - C/C++
-  - Java
-  - Python
-  - SQL/MySQL
-  - MATLAB
-  - VB .NET
-  - Assembly Language
-  - WEB Development
-  - MERN Stack
+  - C, C++, Java, Python
+  - SQL, MySQL, NoSQL
+  - MATLAB, VB .NET, Assembly Language
+  - WEB Development (MERN Stack)
+  - Data Science, Machine Learning, Computer Vision
 
-- 📫 How to reach me:  [<img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg alt='LinkedIn' width="25"/>][LinkedIn]
-
-[LinkedIn]: https://www.linkedin.com/in/ahmed-mujtaba-butt/
+- 📫 Read my blogs on:  [Medium](https://medium.com/@ahmedmbutt) | [DEV](https://dev.to/ahmedmbutt)
+- 📫 Connect with me on:  [LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt)
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
