@@ -7,7 +7,7 @@
   - SQL, MySQL, NoSQL
   - MATLAB, VB .NET, Assembly Language
   - WEB Development (MERN Stack)
-  - Data Science, Machine Learning, Computer Vision
+  - Data Science, Machine Learning, Computer Vision, Natural Language Processing
 
 - 📫 Read my blogs on:  [Medium](https://medium.com/@ahmedmbutt) | [DEV](https://dev.to/ahmedmbutt)
 - 📫 Connect with me on:  [LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt)
