@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 As-salamu Alaykum
 
-- 👀 I’m interested in Artificial Intelligence
+**Follow me on:**
 
-- 💬 Ask me about:
-  - C, C++, Java, Python
-  - SQL, MySQL, NoSQL
-  - MATLAB, VB .NET, Assembly Language
-  - WEB Development (MERN Stack)
-  - Data Science, Machine Learning, Computer Vision, Natural Language Processing
-
-- 📫 Read my blogs on:  [Medium](https://medium.com/@ahmedmbutt) | [DEV](https://dev.to/ahmedmbutt)
-- 🔗 Connect with me on:  [LinkedIn](https://www.linkedin.com/in/ahmed-mujtaba-butt)
+[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="50" width="50" >](https://ahmedmujtaba.pages.dev/)
+[<img src="https://cdn.simpleicons.org/linkedin" height="50" width="50" >](https://www.linkedin.com/in/ahmed-mujtaba-butt)
+[<img src="https://cdn.simpleicons.org/github" height="50" width="50" >](https://github.com/ahmedmbutt)
+[<img src="https://cdn.simpleicons.org/dev.to" height="50" width="50" >](https://dev.to/ahmedmbutt)
+[<img src="https://cdn.simpleicons.org/medium" height="50" width="50" >](https://medium.com/@ahmedmbutt)
+[<img src="https://cdn.simpleicons.org/kaggle" height="50" width="50" >](https://www.kaggle.com/amb2002)
+[<img src="https://cdn.simpleicons.org/leetcode" height="50" width="50" >](https://leetcode.com/ahmedmbutt)
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
