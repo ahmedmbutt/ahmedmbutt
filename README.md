@@ -2,13 +2,9 @@
 
 **Follow me on:**
 
-[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" height="50" width="50" >](https://ahmedmujtaba.pages.dev/)
-[<img src="https://cdn.simpleicons.org/linkedin" height="50" width="50" >](https://www.linkedin.com/in/ahmed-mujtaba-butt)
-[<img src="https://cdn.simpleicons.org/github" height="50" width="50" >](https://github.com/ahmedmbutt)
-[<img src="https://cdn.simpleicons.org/dev.to" height="50" width="50" >](https://dev.to/ahmedmbutt)
-[<img src="https://cdn.simpleicons.org/medium" height="50" width="50" >](https://medium.com/@ahmedmbutt)
-[<img src="https://cdn.simpleicons.org/kaggle" height="50" width="50" >](https://www.kaggle.com/amb2002)
-[<img src="https://cdn.simpleicons.org/leetcode" height="50" width="50" >](https://leetcode.com/ahmedmbutt)
+| Portfolio | LinkedIn | GitHub | Dev | Medium | Kaggle | LeetCode |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="100px" height="100px">](https://ahmedmujtaba.pages.dev/) | [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/github" width="100px" height="100px">](https://github.com/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/dev.to" width="100px" height="100px">](https://dev.to/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) | [<img src="https://cdn.simpleicons.org/kaggle" width="100px" height="100px">](https://www.kaggle.com/amb2002) | [<img src="https://cdn.simpleicons.org/leetcode" width="100px" height="100px">](https://leetcode.com/ahmedmbutt) |
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
