@@ -2,9 +2,9 @@
 
 **Follow me on:**
 
-| Portfolio | LinkedIn | GitHub | Dev | Medium | Kaggle | LeetCode |
+| Portfolio | LinkedIn | GitHub | Dev | Medium | HuggingFace | LeetCode |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="100px" height="100px">](https://ahmedmujtaba.pages.dev/) | [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/github" width="100px" height="100px">](https://github.com/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/dev.to" width="100px" height="100px">](https://dev.to/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) | [<img src="https://cdn.simpleicons.org/kaggle" width="100px" height="100px">](https://www.kaggle.com/amb2002) | [<img src="https://cdn.simpleicons.org/leetcode" width="100px" height="100px">](https://leetcode.com/ahmedmbutt) |
+| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="100px" height="100px">](https://ahmedmujtaba.pages.dev/) | [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/github" width="100px" height="100px">](https://github.com/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/dev.to" width="100px" height="100px">](https://dev.to/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100px" height="100px">](https://huggingface.co/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/leetcode" width="100px" height="100px">](https://leetcode.com/ahmedmbutt) |
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
