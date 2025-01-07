@@ -2,9 +2,9 @@
 
 **Follow me on:**
 
-| LinkedIn | GitHub | Dev | Medium | HuggingFace |
+| LinkedIn | GitHub | GitLab | HuggingFace | Medium |
 | :-: | :-: | :-: | :-: | :-: |
-| [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/github" width="100px" height="100px">](https://github.com/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/dev.to" width="100px" height="100px">](https://dev.to/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100px" height="100px">](https://huggingface.co/ahmedmbutt) |
+| [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/github" width="100px" height="100px">](https://github.com/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/gitlab" width="100px" height="100px">](https://gitlab.com/ahmed.mujtaba) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100px" height="100px">](https://huggingface.co/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) |
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
