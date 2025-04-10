@@ -4,7 +4,7 @@
 
 | Portfolio | LinkedIn | GitLab | HuggingFace | Medium |
 | :-: | :-: | :-: | :-: | :-: |
-| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="100px" height="100px">](https://ahmedmujtaba.pages.dev/) | [<img src="https://cdn.simpleicons.org/linkedin" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://cdn.simpleicons.org/gitlab" width="100px" height="100px">](https://gitlab.com/ahmed.mujtaba) | [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100px" height="100px">](https://huggingface.co/ahmedmbutt) | [<img src="https://cdn.simpleicons.org/medium" width="100px" height="100px">](https://medium.com/@ahmedmbutt) |
+| [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="100px" height="100px">](https://ahmedmujtaba.pages.dev/) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="100px" height="100px">](https://www.linkedin.com/in/ahmed-mujtaba-butt) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/gitlab.svg" width="100px" height="100px">](https://gitlab.com/ahmed.mujtaba) | [<img src="https://cdn.simpleicons.org/huggingface/black" width="100px" height="100px">](https://huggingface.co/ahmedmbutt) | [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/medium.svg" width="100px" height="100px">](https://medium.com/@ahmedmbutt) |
 
 <!---
 - 👋 Hi, I’m @ahmedmbutt
