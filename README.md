@@ -1,6 +1,6 @@
-### 👋 As-salamu Alaykum
+### **👋 As-salamu Alaykum**
 
-**Follow me on:**
+#### **Follow me on:**
 
 | Portfolio | LinkedIn | GitLab | HuggingFace | Medium |
 | :-: | :-: | :-: | :-: | :-: |
